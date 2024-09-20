@@ -35,7 +35,7 @@ To replicate this project, follow these steps:
 
 - **Create Service Accounts:** 
   - Navigate to the GCP Console and create a service account with the necessary permissions to access Google Cloud Storage and BigQuery.
-  - ![Instance](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Instance.png)
+![Instance](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Instance.png)
 
 ### 2. **Prepare the Environment**
 
@@ -70,8 +70,8 @@ To replicate this project, follow these steps:
   
 - **Configure Data Pipeline:** 
   - Set up a data pipeline in Mage.ai to automate data ingestion and transformation steps, and configure the data to be loaded into BigQuery.
-  - ![DataPipeLine](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Mage%20Pipeline.png)
-  - ![MageDataTransform](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Mage%20Transform.png)
+![DataPipeLine](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Mage%20Pipeline.png)
+![MageDataTransform](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Mage%20Transform.png)
 
 ### 5. **Data Analysis in BigQuery**
 
@@ -84,7 +84,7 @@ To replicate this project, follow these steps:
 - **Run SQL Queries:** 
   - Perform analysis by writing SQL queries in the BigQuery console.
    - Example SQL query:
-   - ![SQL Query](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/BQ%20Quieres)
+   - [SQL Query](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/BQ%20Quieres)
      
 
 ### 6. **Data Visualization with Looker Studio**
