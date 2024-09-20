@@ -1,4 +1,4 @@
-```sql
+
   create or replace table `DataProject.uber_data_set.Data_Analytics` as(
   select 
   f.VendorID,
@@ -24,4 +24,4 @@
   on f.LocPick_id =p.LocPick_id
   join `plucky-haven-434912-u2.uber_data_set.Dim_RateRide`r
   on f.RateRide_id =r.RateRide_id)
-```
+
