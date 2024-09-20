@@ -85,7 +85,7 @@ To replicate this project, follow these steps:
 - **Run SQL Queries:** 
   - Perform analysis by writing SQL queries in the BigQuery console.
    - Example SQL query:
-   - [SQL Query](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/391c21da0040d1421d5a11e9358ae45ca6e122df/Assets/BQ%20Queries)
+   - [SQL Query](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/e6494efc47d1001bd76a4aef975b4cccda42404f/Assets/BQ%20Queries.txt)
      
 
 ### 6. **Data Visualization with Looker Studio**
