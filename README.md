@@ -70,6 +70,7 @@ To replicate this project, follow these steps:
   
 - **Configure Data Pipeline:** 
   - Set up a data pipeline in Mage.ai to automate data ingestion and transformation steps, and configure the data to be loaded into BigQuery.
+
 ![DataPipeLine](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Mage%20Pipeline.png)
 ![MageDataTransform](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/Mage%20Transform.png)
 
@@ -84,7 +85,7 @@ To replicate this project, follow these steps:
 - **Run SQL Queries:** 
   - Perform analysis by writing SQL queries in the BigQuery console.
    - Example SQL query:
-   - [SQL Query](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/a1b01e72ef805d3ceea9b88f2dab9c4bf2902030/Assets/BQ%20Quieres)
+   - [SQL Query](https://github.com/Keroles-Ramses/Uber-Data-Analytics-GCP-Data-Engineering-Project-/blob/391c21da0040d1421d5a11e9358ae45ca6e122df/Assets/BQ%20Queries)
      
 
 ### 6. **Data Visualization with Looker Studio**
